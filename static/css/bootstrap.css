@@ -678,7 +678,7 @@
   -moz-osx-font-smoothing:grayscale;
   padding: 5px;
   background-color: white;
-  background-image: url('static/img/icons/icon-info.svg');
+  background-image: url('../img/icons/icon-info.svg');
   width: 2em;
   height: 2em;
   float: right;
@@ -697,7 +697,7 @@
   -moz-osx-font-smoothing:grayscale;
   padding: 5px;
   background-color: white;
-  background-image: url('static/img/icons/fullscreen.png');
+  background-image: url('../img/icons/fullscreen.png');
   width: 2em;
   height: 2em;
   float: left;
@@ -712,7 +712,7 @@
   font-weight:400;
   font-variant:normal;
   text-transform:none;
-  background-image: url('static/img/icons/icon-close.svg');
+  background-image: url('../img/icons/icon-close.svg');
   width: 2em;
   height: 2em;
 }
