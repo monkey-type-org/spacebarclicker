@@ -394,13 +394,13 @@ body {
     font-size: 20px;   }
 
 .icon-volume-off{
-    background-image: url('../img/mute.svg');
+    background-image: url('static/img/mute.svg');
     background-size: 30px;
     font-weight: bolder;
     }
 
 .icon-volume-2{
-    background-image: url('../img/unmute.svg');
+    background-image: url('static/img/unmute.svg');
     background-size: 30px;
     font-weight: bolder;
     } 
@@ -422,7 +422,7 @@ body {
     border: 2px solid #000000;
     border-radius: 30px;
     font-size: 20px; 
-    background-image: url('../img/reload.svg');
+    background-image: url('static/img/reload.svg');
     } 
 
 .icon {
