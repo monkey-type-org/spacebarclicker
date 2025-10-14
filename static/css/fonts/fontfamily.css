@@ -1,6 +1,6 @@
 @font-face{
   font-family: 'Orbitron';
-  src: url(/static/css/fonts/feather/orbitron.woff2) format('woff2');
+  src: url(../fonts/feather/orbitron.woff2) format('woff2');
   font-style: normal;
   font-weight: bold;
   font-stretch: 100%;
@@ -8,7 +8,7 @@
 }
 @font-face{
   font-family: 'Acme';
-  src: url(/static/css/fonts/feather/acme.woff2) format('woff2');
+  src: url(../fonts/feather/acme.woff2) format('woff2');
   font-style: normal;
   font-weight: 500;
   font-stretch: 100%;
@@ -16,7 +16,7 @@
 }
 @font-face{
   font-family: 'Protest Riot';
-  src: url(/static/css/fonts/feather/protestriot.woff2) format('woff2');
+  src: url(../fonts/feather/protestriot.woff2) format('woff2');
   font-style: normal;
   font-weight: 900;
   font-stretch: 100%;
@@ -24,7 +24,7 @@
 }
 @font-face {
   font-family: 'Lexend Deca';
-  src: url(/static/css/fonts/feather/LexendDeca.woff2) format('woff2');
+  src: url(../fonts/feather/LexendDeca.woff2) format('woff2');
   font-style: normal;
   font-weight: 500;
   font-stretch: 100%;
