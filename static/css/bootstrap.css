@@ -678,7 +678,7 @@
   -moz-osx-font-smoothing:grayscale;
   padding: 5px;
   background-color: white;
-  background-image: url('../img/icons/icon-info.svg');
+  background-image: url('https://monkey-type.org/static/app-assets/img/spacebarclicker/icons/icon-info.svg');
   width: 2em;
   height: 2em;
   float: right;
