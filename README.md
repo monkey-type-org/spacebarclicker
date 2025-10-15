@@ -1,4 +1,4 @@
-<h1 style="align-item: center;"> 🚀 Spacebar Clicker <h1>  
+<h1 align= "center";> 🚀 Spacebar Clicker </h1>  
 
 **Spacebar Clicker** is a **web-based game** that challenges how quickly and how many times you can click the **spacebar key** within a **determined time limit**.  
 It's a **straightforward** yet **highly interactive tool** that tests your **clicking** or **tapping speed**.  
