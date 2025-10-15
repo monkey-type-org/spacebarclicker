@@ -422,7 +422,7 @@ body {
     border: 2px solid #000000;
     border-radius: 30px;
     font-size: 20px; 
-    background-image: url('static/img/reload.svg');
+    background-image: url('../img/reload.svg');
     } 
 
 .icon {
