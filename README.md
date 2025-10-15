@@ -14,7 +14,7 @@ You can play for **a few seconds** or for **extended periods** — the more you 
 
 In all, **Spacebar Clicker** is more than just a tool — it's a **fun and simple game** to practice your **focus**, **speed**, and **consistency**.  
 Whether you use it for **enjoyment** or **self-improvement**, each click is a step toward becoming a **master of reflexes**.💥  
-<hr>
+
 
 ## 🎮 Features  
 
@@ -30,7 +30,7 @@ Whether you use it for **enjoyment** or **self-improvement**, each click is a st
 - 😌 **Stress Relief** — relaxing and satisfying way to unwind anytime.  
 - 🏆 **Challenge Friends** — compete for fun and clicking glory!  
 - 💰 **Free to Play** — completely free, no hidden charges or ads.   
-<hr>
+
 
 ## 🧠 How to Play  
 
@@ -38,7 +38,7 @@ Whether you use it for **enjoyment** or **self-improvement**, each click is a st
 2. Press the **spacebar** repeatedly to Increase count.  
 3. Use your count to **purchase items** or **new features**    
 4. Keep clicking and building your counts — the more you click, the more you grow!  
-<hr>
+
 
 ## 🛠️ Built With  
 
@@ -46,7 +46,7 @@ Whether you use it for **enjoyment** or **self-improvement**, each click is a st
 - **CSS3** – For styling and effects  
 - **JavaScript (ES6)** – For core game logic and shop system  
 - **Sound Effects** – For an engaging experience  
-<hr>
+
 
 ## 🏆 Future Updates  
 
@@ -54,12 +54,12 @@ Whether you use it for **enjoyment** or **self-improvement**, each click is a st
 - 🌈 Visual effects for purchases  
 - 💾 Auto-save progress  
 - 📱 Mobile-friendly layout  
-<hr>
+
 
 ## 📸 Preview  
 
 ![Spacebar Clicker Screenshot](./static/img/icons/spacebar.png)
-<hr>
+
 
 ## 💖 Contribute
 
