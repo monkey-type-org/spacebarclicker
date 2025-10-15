@@ -625,38 +625,38 @@ body {
      height : 100% ;    
  }
  .button::before{
-    top : 0 ;
-    transform-origin : top center ;
-    transform : rotateX(70deg) ;
-    background : linear-gradient(135deg , rgba(255,255,255,.3) 10%, rgba(255,255,255,0) 60%);
+     top : 0 ;
+     transform-origin : top center ;
+     transform : rotateX(70deg) ;
+     background : linear-gradient(135deg , rgba(255,255,255,.3) 10%, rgba(255,255,255,0) 60%);
  }
- .buton::after{
-    bottom : 0 ;
-    transform-origin : bottom center ;
-    transform : rotateX(-110deg) ;
-    background : radial-gradient( rgba(255,255,255,0) 40%, rgba(255,255,255,.1) ) ;
+ .button::after{
+     bottom : 0 ;
+     transform-origin : bottom center ;
+     transform : rotateX(-110deg) ;
+     background : radial-gradient( rgba(255,255,255,0) 40%, rgba(255,255,255,.1) ) ;
  }
- .buton__wrapper{
-    position : relative ;
-    z-index : 2 ;
-    width : 100% ;
-    height : 100% ;
-    background : linear-gradient( rgba(255,255,255,.4) 0% , rgba(255,255,255,0) 30%  ,rgba(255,255,255,0) 70% , rgba(255,255,255,.2)) ;
-    transform : translate3d( 0 , 27px , 74px) ;
-    perspective : 600px ;
+ .button__wrapper{
+     position : relative ;
+     z-index : 2 ;
+     width : 100% ;
+     height : 100% ;
+     background : linear-gradient( rgba(255,255,255,.4) 0% , rgba(255,255,255,0) 30%  ,rgba(255,255,255,0) 70% , rgba(255,255,255,.2)) ;
+     transform : translate3d( 0 , 27px , 74px) ;
+     perspective : 600px ;
  }
- .buton__text{
-    position : relative ;
-    display : flex ;
-    justify-content : center ;
-    align-items : center ;
-    width : 100% ;
-    height : 100% ;
-    font-family: 'Alfa Slab One', cursive;
-    font-size : 32px ;
-    letter-spacing : 4px ;
-    color : rgba(255,255,255,.2) ;
-    transition : all ease-in-out 1s ;
+ .button__text{
+     position : relative ;
+     display : flex ;
+     justify-content : center ;
+     align-items : center ;
+     width : 100% ;
+     height : 100% ;
+     font-family: 'Alfa Slab One', cursive;
+     font-size : 32px ;
+     letter-spacing : 4px ;
+     color : rgba(255,255,255,.2) ;
+     transition : all ease-in-out 1s ;
  }
  .button__text::before{
      content : '' ;
@@ -940,7 +940,7 @@ body {
    
  }
  
-.img{
+ .img{
  position:relative;
  width: 10% !important;
  }
@@ -957,8 +957,8 @@ body {
  .brresultround{
      border: 5px solid #fff !important;
      border-radius: 50% !important;
-}
+ }
 
-.colo{
+ .colo{
     color: black;
-}
+ }
