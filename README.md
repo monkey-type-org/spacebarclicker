@@ -55,6 +55,13 @@ Whether you use it for **enjoyment** or **self-improvement**, each click is a st
 - 💾 Auto-save progress  
 - 📱 Mobile-friendly layout  
 
+### 🌐 Live Demo  
+👉 [Click here to play](https://monkey-type-org.github.io/spacebarclicker/)  
+<hr>
+
+### 📂 Repository  
+👉 [Click Git repo](https://github.com/monkey-type-org/spacebarclicker)  
+<hr>
 
 ## 📸 Preview  
 
